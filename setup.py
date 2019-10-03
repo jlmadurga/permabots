@@ -59,7 +59,7 @@ setup(
         'python-telegram-bot==4.2.0',
         'Jinja2==2.8',
         'jinja2-time==0.1.0',
-        'requests==2.10.0',
+        'requests==2.20.0',
         'shortuuid==0.4.3',
         'kik==1.0.7',
         'messengerbot==0.1.4'

@@ -3,7 +3,7 @@ Permabots
 =============================
 
 .. image:: https://github.com/jlmadurga/permabots/raw/master/docs/images/logos/permabots.png
-    :target: http://www.permabots.com
+    :target: https://github.com/jlmadurga/permabots
 
 
 CI:
@@ -37,7 +37,7 @@ With Permabots you can build chat bots and with the same configuration use it fo
 was born to be a microservice to connect messaging providers to your apps using REST APIs.
 
 .. image:: https://github.com/jlmadurga/permabots/raw/master/docs/images/demo.gif
-    :target: http://www.permabots.com
+    :target: https://github.com/jlmadurga/permabots
 
 
 Documentation
@@ -82,8 +82,6 @@ It is usefull when you don't have ``https`` in your public domain but you have i
 Bots are associated to Django Users. You need at least one user, for example admin user.
 
 Then you can create all permabots data, Bots, Conversation Handlers, Notitication Hooks,... via Django admin or with REST API (recommended).
-
-Remember there is an online implementation in www.permabots.com to use it for free.		
 
 Demo
 --------------

@@ -57,7 +57,7 @@ setup(
         'celery==3.1.23',
         'djangorestframework==3.3.3',
         'python-telegram-bot==4.2.0',
-        'Jinja2==2.8',
+        'Jinja2==2.11.3',
         'jinja2-time==0.1.0',
         'requests==2.10.0',
         'shortuuid==0.4.3',

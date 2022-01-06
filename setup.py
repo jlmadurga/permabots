@@ -54,7 +54,7 @@ setup(
     include_package_data=True,
     install_requires=[
         'django>=1.9.1',
-        'celery==3.1.23',
+        'celery==5.2.2',
         'djangorestframework==3.3.3',
         'python-telegram-bot==4.2.0',
         'Jinja2==2.8',
